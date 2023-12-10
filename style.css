@@ -1,0 +1,19 @@
+* {
+    margin: 0%;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 30px;
+    color: black;
+    border: 1px;
+}
+
+.form {
+    padding: 5px;
+}
+
+button {
+    border: 1px cadetblue;
+}
